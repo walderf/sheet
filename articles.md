@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-* [The Internet](#the-internet)
-  * [The Internet is Made of Demons](#the-internet-is-made-of-demons)
-  * [How the Blog Broke the Web](#how-the-blog-broke-the-web)
+* [The Internet](#black_small_square-the-internet)
+  * [The Internet is Made of Demons](#small_orange_diamond-the-internet-is-made-of-demons)
+  * [How the Blog Broke the Web](#small_orange_diamond-how-the-blog-broke-the-web)
 
 <br />
 
